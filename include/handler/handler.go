@@ -5,7 +5,7 @@ import (
 	"net/http"
 
 	"github.com/go-chi/chi/v5"
-	"github.com/kuzminprog/service-provider-system/pkg/sps"
+	"github.com/Luba2888/Final_work/pkg/sps"
 	"github.com/spf13/viper"
 )
 
