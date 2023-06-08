@@ -1,4 +1,4 @@
-module github.com/kuzminprog/service-provider-system
+module github.com/Luba2888/Final_work
 
 go 1.19
 
