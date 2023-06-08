@@ -4,8 +4,8 @@ import (
 	"flag"
 	"log"
 
-	"github.com/kuzminprog/service-provider-system/include/server"
-	"github.com/kuzminprog/service-provider-system/pkg/simulator"
+	"github.com/Luba2888/Final_work/include/server"
+	"github.com/Luba2888/Final_work/pkg/simulator"
 	"github.com/spf13/viper"
 )
 
